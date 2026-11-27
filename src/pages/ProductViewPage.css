@@ -1,0 +1,7 @@
+.product-view { display: flex; flex-wrap: wrap; gap: 40px; padding-top: 32px; align-items: flex-start; }
+.product-view__gallery { flex: 1 1 400px; max-width: 700px; min-width: 0; }
+.product-view__info { flex: 1 1 320px; min-width: 0; }
+.product-view__option { display: flex; flex-direction: column; gap: 8px; }
+.product-view__option p { font-size: 14px; font-weight: 700; color: var(--light-gray); }
+.product-missing { padding-top: 64px; display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
+.product-missing a { color: var(--primary); }

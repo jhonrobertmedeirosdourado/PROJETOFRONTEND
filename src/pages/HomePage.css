@@ -1,0 +1,4 @@
+.home__gallery { margin: 0 auto; }
+.home__collections { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.home__collections img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 4px; }
+@media (max-width: 700px) { .home__collections { grid-template-columns: 1fr; } }
