@@ -1,8 +1,8 @@
 # Store
 
-Projeto final de Front-end (React): loja virtual com Home, Listagem de Produtos e Visualização de Produto.
+PROJETO FINAL DE FRONT-END (React): LOJA VIRTUAL com Home, Listagem de Produtos e Visualização de Produto.
 
-**Equipe:** _Nome 1_, _Nome 2_, _Nome 3_ <!-- obrigatório informar todos os nomes -->
+**Equipe:** Jhon Robert Medeiros Dourado <!-- obrigatório informar todos os nomes -->
 **Deploy:** _cole aqui o link da Vercel/Netlify_
 
 ## Tecnologias
